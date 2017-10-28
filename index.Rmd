@@ -6,10 +6,10 @@ title: "Chuhan's Website"
 
 <img src="IMG_0147.JPG" style="width:50%">  
 
-My GitHub account can be accessed here
+* My GitHub account can be accessed here
 [this](https://github.com/mxgdxbz)
 
-Want to know more about me?
+* Want to know more about me?
 [about](about.html)
 
 
