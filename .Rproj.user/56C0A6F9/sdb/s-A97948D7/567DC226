@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Yay internet!\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<cz2493@columbia.edu>\n    - icon: fa-github fa-lg\n      href: http://github.com/<YOUR_GH_NAME>/\noutput:\n  html_document",
+    "created" : 1509207128962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3022737836",
+    "id" : "567DC226",
+    "lastKnownWriteTime" : 1509207166,
+    "last_content_update" : 1509207166346,
+    "path" : "~/Desktop/data science/hw/mxgdxbz.github.io./_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

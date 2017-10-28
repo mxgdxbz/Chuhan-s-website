@@ -1,0 +1,15 @@
+---
+title: "Chuhan's Website"
+---
+
+### I have a webpage!
+
+<img src="IMG_0147.JPG" style="width:50%">  
+
+My GitHub account can be accessed here
+[this](https://github.com/mxgdxbz)
+
+Want to know more about me?
+[about](about.html)
+
+

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Chuhan's Website\"\n---\n\n### I have a webpage!\n\n<img src=\"IMG_0147.JPG\" style=\"width:50%\">  \n\n* My GitHub account can be accessed here\n[this](https://github.com/mxgdxbz)\n\n* Want to know more about me?\n[about](about.html)\n\n\n",
+    "created" : 1509204768711.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "849435015",
+    "id" : "CE938CBF",
+    "lastKnownWriteTime" : 1509207318,
+    "last_content_update" : 1509207338528,
+    "path" : "~/Desktop/data science/hw/mxgdxbz.github.io./index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
