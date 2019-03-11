@@ -1,5 +1,5 @@
 ---
-title: "CHUHAN(Viola) ZHOU"
+title: "Chuhan Zhou"
 ---
 ###Academic Backgroud
 **Columbia University**  
@@ -13,9 +13,16 @@ Focus: Pharmaceutical Sciences
 Core Courses: Advanced Mathematics, Pharmaceutical Analysis, Pharmacology, Molecular Biology   
 Awards: Academic Scholarship for continuous three years 
 
-**Washington University in St. Louis**  
-Washington University Summer Program  
-Core Courses: Problem-Based Learning in Biology, Biomedical Ethics 
-
+###Research Experience  
+**Columbia Univ., Dept. of Biostatistics, Investigator**  
+*  Cooperatively develop research project to investigate determinants of survival disparities in patients with colorectal cancer  
+*  Manipulate survey data and medical records from CanCORS study and extract eligible records for survival analysis   
+*  Employ both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to evaluate possible effect of surgery waiting time on racial differences in survival rate   
+*  Perform mediation analysis in R to examine how surgery waiting time mediates between race and survival time and quantify its contribution to survival disparities between white and non-white patients  
+**Hospital for Special Surgery, Data Research Intern**  
+*  Communicated with lead surgeons and cooperatively identified promising variables with impact on hospital-acquired infection (HAI) rate both in operative procedure and post-operative care of spinal surgeries  
+*  Designed a method to quantify team consistency level of each spinal surgery based on survey data collected from surgeons, anesthetists as well as assistants and transferred result into a new variable in building models to estimate HAI rate   
+*  Applied regression modeling in R on variables of interest with nested cross-validation in support of model selection   
+*  Generated visualizations including correlograms, tables as well as graphs and reported results to data manager periodically  
 
 
