@@ -40,4 +40,9 @@ Awards: Academic Scholarship for continuous three years
 
 **[Machine Learning Techniques in Transaction Data](https://github.com/mxgdxbz/Transaction-Data), Course Project**    
 ▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure on black friday   
-▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.   
+▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.  
+
+### Software Skills    
+▪	Proficiency in R (Data Wrangling, Statistical Analysis, Visualization) and MS Office (Word, Excel, PowerPoint, Access)  
+▪	Effective use of SAS (Base Programmer Certificated), Python, SQL, SPSS   
+▪	Familiarity with Tableau, Mplus   
