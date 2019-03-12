@@ -1,11 +1,12 @@
 ---
 title: "Chuhan Zhou"
 ---
-###Academic Backgroud
+
+### Academic Backgroud
 **Columbia University**  
 Master of Science Degree  
 Focus: Biostatistics (Theory and Methods Track)  
-Core Courses: Data Science, Biostatistical Methods, Machine Learning
+Core Courses: Data Science, Biostatistical Methods, Machine Learning, Design of Medical Experiments, Survival Analysis, Analysis of Longitudinal Data, Drug Development
 
 **Fudan University**  
 Bachelor of Science Degree     
@@ -13,16 +14,30 @@ Focus: Pharmaceutical Sciences
 Core Courses: Advanced Mathematics, Pharmaceutical Analysis, Pharmacology, Molecular Biology   
 Awards: Academic Scholarship for continuous three years 
 
-###Research Experience  
-**Columbia Univ., Dept. of Biostatistics, Investigator**  
-*  Cooperatively develop research project to investigate determinants of survival disparities in patients with colorectal cancer  
-*  Manipulate survey data and medical records from CanCORS study and extract eligible records for survival analysis   
-*  Employ both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to evaluate possible effect of surgery waiting time on racial differences in survival rate   
-*  Perform mediation analysis in R to examine how surgery waiting time mediates between race and survival time and quantify its contribution to survival disparities between white and non-white patients  
-**Hospital for Special Surgery, Data Research Intern**  
-*  Communicated with lead surgeons and cooperatively identified promising variables with impact on hospital-acquired infection (HAI) rate both in operative procedure and post-operative care of spinal surgeries  
-*  Designed a method to quantify team consistency level of each spinal surgery based on survey data collected from surgeons, anesthetists as well as assistants and transferred result into a new variable in building models to estimate HAI rate   
-*  Applied regression modeling in R on variables of interest with nested cross-validation in support of model selection   
-*  Generated visualizations including correlograms, tables as well as graphs and reported results to data manager periodically  
+### Professional Experience  
+**Hospital for Special Surgery, Data Research Intern**     
+ ▪ Communicated with lead surgeons and cooperatively identified promising variables with impact on hospital-acquired infection (HAI) rate both in operative procedure and post-operative care of spinal surgeries      
+ ▪ Analyzed survey data collected from surgeons, anesthetists as well as assistants and successfully identified a latent variable (team consistency level) in estimating HAI rate, which reduce model prediction error by twenty percent  
+ ▪ Applied regression modeling in R on 20+ variables with nested cross-validation in support of model selection         
+ ▪ Generated visualizations including correlograms, tables as well as graphs and reported results to data manager periodically    
 
+**Boehringer-Ingelheim CO., Quality Assurance Intern**     
+ ▪ Monitored medicines quality through gathering and analyzing related quality reports to detect potential quality issues     
+ ▪ Supported CAPA revision and implemented effective corrective or preventive actions to assure safe medicines supply    
+ ▪ Connected with downstream suppliers and reviewed qualification documents to ensure their adherence to GMP standard    
+ ▪ Worked as the head intern to lead intern training session and inspire team spirit
 
+### Research Experience
+**Columbia Univ., Dept. of Biostatistics, Investigator**     
+▪ Cooperatively develop a project to investigate determinants of racial survival disparities in patients diagnosed with colorectal cancer      
+▪ Effectively researched on survey data as well as medical records and extracted 1500+ eligible records for further analysis  
+▪	Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to separately quantify the effect of diagnosis stage and surgery waiting time on racial survival disparities  
+▪	Examined the mediation effect of diagnosis stage and surgery waiting time in a self-motivating manner, which played an important role in improving model accuracy and interpretation  
+
+**[Smoking in the Framingham Heart Study](https://github.com/mxgdxbz/Framingham-Heart-study), Course Project**  
+▪	Described the smoking habits of the participants in the Framingham Heart study as they age   
+▪	Determined the impact of smoking on certain health outcomes,including systolic blood pressure, diastolic blood pressure and serum total cholesterol.  
+
+**[Machine Learning Techniques in Transaction Data](https://github.com/mxgdxbz/Transaction-Data), Course Project**    
+▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure on black friday   
+▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.   
