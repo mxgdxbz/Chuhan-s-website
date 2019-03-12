@@ -44,5 +44,5 @@ Awards: Academic Scholarship for continuous three years
 
 ### Software Skills    
 ▪	Proficiency in R (Data Wrangling, Statistical Analysis, Visualization) and MS Office (Word, Excel, PowerPoint, Access)  
-▪	Effective use of SAS (Base Programmer Certificated), Python, SQL, SPSS   
-▪	Familiarity with Tableau, Mplus   
+▪	Familiarity with of SAS (Base Programmer Certificated), Python, SQL, SPSS   
+▪	Working knowledge of Tableau and Mplus   
