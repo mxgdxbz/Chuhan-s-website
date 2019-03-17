@@ -17,17 +17,26 @@ Awards: Academic Scholarship for continuous three years
 ### Professional Experience  
 **Hospital for Special Surgery, Data Research Intern**     
  ▪ Communicated with lead surgeons and cooperatively identified promising variables with impact on hospital-acquired infection (HAI) rate both in operative procedure and post-operative care of spinal surgeries      
- ▪ Analyzed survey data collected from surgeons, anesthetists as well as assistants and successfully identified a latent variable (team consistency level) in estimating HAI rate, which reduce model prediction error by twenty percent  
- ▪ Applied regression modeling in R on 20+ variables with nested cross-validation in support of model selection         
+ ▪ Quantified team consistency score for each spinal surgery based on survey data collected from surgeons, anesthetists as well as assistants and transferred into a continuous variable in building HAI prediction models   
+ ▪ Implemented regression modeling on 20+ variables and performed nested cross-validation in support of model selection   
+ ▪ Highly appraised for proposing and successfully performing ROC analysis to further determine the appropriate cut-off values for team consistency score  
  ▪ Generated visualizations including correlograms, tables as well as graphs and reported results to data manager periodically    
 
 **Boehringer-Ingelheim CO., Quality Assurance Intern**     
  ▪ Monitored medicines quality through gathering and analyzing related quality reports to detect potential quality issues     
- ▪ Supported CAPA revision and implemented effective corrective or preventive actions to assure safe medicines supply    
+ ▪ Implemented corrective or preventive actions(CAPA) to assure medicine safe supply in a timely and effective way   
  ▪ Connected with downstream suppliers and reviewed qualification documents to ensure their adherence to GMP standard    
  ▪ Worked as the head intern to lead intern training session and inspire team spirit
 
-### Research Experience
+**Jiaofu Biomed, Data Research Intern**    
+▪ Examined rationality of experimental designs and extracted valid research data from over 100 glioma studies  
+▪ Developed data records for different small-molecule chemo drugs to capture their properties and efficacy in glioma cells   
+▪ Processed data into desirable format and performed exploratory analysis to handle missing values and outliers  
+▪ Utilized statistical test in SPSS to validate efficacy and safety properties of target molecules in preclinical studies   
+▪ Improved reports summarizing methods and results for client delivery and was honored with an Innovation Award
+
+
+### Research Experience  
 **Columbia Univ., Dept. of Biostatistics, Investigator**     
 ▪ Cooperatively develop a project to investigate determinants of racial survival disparities in patients diagnosed with colorectal cancer      
 ▪ Effectively researched on survey data as well as medical records and extracted 1500+ eligible records for further analysis  
@@ -35,11 +44,11 @@ Awards: Academic Scholarship for continuous three years
 ▪	Examined the mediation effect of diagnosis stage and surgery waiting time in a self-motivating manner, which played an important role in improving model accuracy and interpretation  
 
 **[Smoking in the Framingham Heart Study](https://github.com/mxgdxbz/Framingham-Heart-study), Course Project**  
-▪	Described the smoking habits of the participants in the Framingham Heart study as they age   
+▪	Described the smoking habits(smoking status and number of cigarettes per day) of the participants in the Framingham Heart study as they age   
 ▪	Determined the impact of smoking on certain health outcomes,including systolic blood pressure, diastolic blood pressure and serum total cholesterol.  
 
 **[Machine Learning Techniques in Transaction Data](https://github.com/mxgdxbz/Transaction-Data), Course Project**    
-▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure on black friday   
+▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure   
 ▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.  
 
 ### Software Skills    
