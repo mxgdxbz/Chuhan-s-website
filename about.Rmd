@@ -43,15 +43,15 @@ Awards: Academic Scholarship for continuous three years
 ▪	Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to separately quantify the effect of diagnosis stage and surgery waiting time on racial survival disparities  
 ▪	Examined the mediation effect of diagnosis stage and surgery waiting time in a self-motivating manner, which played an important role in improving model accuracy and interpretation  
 
-**[Smoking in the Framingham Heart Study](https://github.com/mxgdxbz/Framingham-Heart-study), Course Project**  
+**[Smoking in the Framingham Heart Study](https://github.com/mxgdxbz/Framingham-Heart-study), Longitudinal Analysis Project**  
 ▪	Described the smoking habits(smoking status and number of cigarettes per day) of the participants in the Framingham Heart study as they age   
 ▪	Determined the impact of smoking on certain health outcomes,including systolic blood pressure, diastolic blood pressure and serum total cholesterol.  
 
-**[Machine Learning Techniques in Transaction Data](https://github.com/mxgdxbz/Transaction-Data), Course Project**    
+**[Machine Learning Techniques in Transaction Data](https://github.com/mxgdxbz/Transaction-Data), Data Mining Project**    
 ▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure   
 ▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.  
 
 ### Software Skills    
 ▪	Proficiency in R (Data Wrangling, Statistical Analysis, Visualization) and MS Office (Word, Excel, PowerPoint, Access)  
-▪	Familiarity with of SAS (Base Programmer Certificated), Python, SQL, SPSS   
+▪	Familiarity with of SAS (Base Programmer Certificated), SQL, Python, SPSS   
 ▪	Working knowledge of Tableau and Mplus   
