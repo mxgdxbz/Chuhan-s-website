@@ -30,7 +30,7 @@ Awards: Academic Scholarship for continuous three years
 
 **Jiaofu Biomed, Data Research Intern**    
 ▪ Examined rationality of experimental designs and extracted valid research data from over 100 glioma studies  
-▪ Developed data records for different small-molecule chemo drugs to capture their properties and efficacy in glioma cells   
+▪ Created data records for small-molecule chemo drugs without error to capture their properties and efficacy in glioma cells   
 ▪ Processed data into desirable format and performed exploratory analysis to handle missing values and outliers  
 ▪ Utilized statistical test in SPSS to validate efficacy and safety properties of target molecules in preclinical studies   
 ▪ Improved reports summarizing methods and results for client delivery and was honored with an Innovation Award
@@ -40,8 +40,8 @@ Awards: Academic Scholarship for continuous three years
 **Columbia Univ., Dept. of Biostatistics, Investigator**     
 ▪ Cooperatively develop a project to investigate determinants of racial survival disparities in patients diagnosed with colorectal cancer      
 ▪ Effectively researched on survey data as well as medical records and extracted 1500+ eligible records for further analysis  
-▪	Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to separately quantify the effect of diagnosis stage and surgery waiting time on racial survival disparities  
-▪	Examined the mediation effect of diagnosis stage and surgery waiting time in a self-motivating manner, which played an important role in improving model accuracy and interpretation  
+▪	Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to separately quantify the mediation effect of diagnosis stage and surgery waiting time on racial survival disparities  
+▪	Professionally developed the framework to conduct mediation analysis for censored data in the clinical practice  
 
 **[Smoking in the Framingham Heart Study](https://github.com/mxgdxbz/Framingham-Heart-study), Longitudinal Analysis Project**  
 ▪	Described the smoking habits(smoking status and number of cigarettes per day) of the participants in the Framingham Heart study as they age   
@@ -52,6 +52,6 @@ Awards: Academic Scholarship for continuous three years
 ▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.  
 
 ### Software Skills    
-▪	Proficiency in R (Data Wrangling, Statistical Analysis, Visualization) and MS Office (Word, Excel, PowerPoint, Access)  
+▪	Proficiency in R (Data Manipulation, Statistical Analysis, Visualization) and MS Office (Word, Excel, PowerPoint, Access)  
 ▪	Familiarity with of SAS (Base Programmer Certificated), SQL, Python, SPSS   
 ▪	Working knowledge of Tableau and Mplus   
