@@ -1,7 +1,10 @@
-name: "Yay internet!"
+name: "my-website!"
 output_dir: "."
 navbar:
   title: "Home"
+  left:
+   -  text: "Resume"
+      href: Resume-czhou.pdf
   right:
     - text: "About"
       href: about.html
@@ -9,6 +12,9 @@ navbar:
       href: mailto:<cz2493@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/mxgdxbz/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/chuhan-zhou-cz2493/
+    
 output:
   html_document:
     theme: cosmo
