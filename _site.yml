@@ -2,9 +2,6 @@ name: "my-website!"
 output_dir: "."
 navbar:
   title: "Home"
-  left:
-   -  text: "Resume"
-      href: Resume-czhou.pdf
   right:
     - text: "About"
       href: about.html

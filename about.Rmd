@@ -4,15 +4,13 @@ title: "Chuhan Zhou"
 <body style="background-image:url('off-white-bg.jpg');">
 
 ### Academic Background
-**Columbia University**  
-Master of Science Degree  
+**Columbia University, M.S.**   
 Focus: Biostatistics (Theory and Methods Track)  
-Core Courses: Data Science, Biostatistical Methods, Machine Learning, Design of Medical Experiments, Survival Analysis, Analysis of Longitudinal Data, Drug Development
+Core Courses: Data Science I, Biostatistical Methods I&II, Statistical Inference, Design of Medical Experiments, New Drug Development, Analysis of Longitudinal Data, Data Mining, Pharmacoepidemiology
 
-**Fudan University**  
-Bachelor of Science Degree     
+**Fudan University, B.S.**      
 Focus: Pharmaceutical Sciences  
-Core Courses: Advanced Mathematics, Pharmaceutical Analysis, Pharmacology, Molecular Biology   
+Core Courses: Pharmaceutical Analysis, Pharmacy Administration, Biotech Drug Delivery System, Pharmaceutical Biotechnology,Pharmacokinetics, Integrated Experiments of Drug Design  
 Awards: Academic Scholarship for continuous three years 
 
 ### Professional Experience  
