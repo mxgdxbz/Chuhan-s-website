@@ -36,7 +36,7 @@ Awards: Academic Scholarship for continuous three years
 
 
 ### Research Experience  
-**Racial Survival Disparities in patients diagnosed with colorectal cancer, [Mediation Analysis Project](project_pre.pdf)**     
+**Racial Survival Disparities in patients diagnosed with colorectal cancer, [Mediation Analysis Project](Report_cz2493.pdf)**     
 ▪ Cooperatively develop a project to investigate determinants of racial survival disparities in patients diagnosed with colorectal cancer      
 ▪ Effectively researched on survey data as well as medical records and extracted 1500+ eligible records for further analysis  
 ▪	Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to separately quantify the mediation effect of diagnosis stage and surgery waiting time on racial survival disparities  
@@ -47,8 +47,14 @@ Awards: Academic Scholarship for continuous three years
 ▪	Determined the impact of smoking on certain health outcomes,including systolic blood pressure, diastolic blood pressure and serum total cholesterol.  
 
 **Machine Learning Techniques in Transaction Data, [Data Mining Project](final_project_cz2493.pdf)**    
-▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure   
+▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure 
 ▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.  
+
+
+**Crime Research in New York City, [Data Science Project](https://veronica574.github.io/final_project_crime/)**  
+▪ Focusing on providing information about crimes in NYC. The map helps to visualize where crimes occured in nyc. The trend of crimes shows the change over years and months. 
+▪ Addressed the lead causes to the regional difference in crime rate. We collected the data about income and unemployment rate and analyzed their association with crime rate. 
+▪ Compared dinstinct words in offense type of felony and violation. Overall, our analysis include region, time, criminal types which associated with crimes in NYC.
 
 ### Core Competence  
 ▪ Strong programming and analytical skills  

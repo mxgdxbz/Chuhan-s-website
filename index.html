@@ -22,7 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -71,9 +72,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -92,8 +91,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -109,7 +114,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -129,6 +133,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -150,19 +191,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -223,12 +330,12 @@ $(document).ready(function () {
 <body style="background-image:url('off-white-bg.jpg');">
 <p>Hi,</p>
 <p style="text-align:justify;">
-I am a second-year graduate student in <strong>Biostatistics</strong> at Columbia University, Mailman School of Public Health and will be graduating this summer. I completed my undergraduate study at Fudan University and acquired my B.S. degree in <strong>Pharmaceutical Science</strong>. I have been passionate about data analytics in the healthcare practice, especially for its use in new drug development and clinical trial design to drive innovative solutions. That is why I transferred to Biostatistics for graduate study. I joined Hospital for Special Surgery last summer as a data research intern and was mainly responsible for the <strong>data manipulation</strong> and <strong>statistical analysis</strong> work in our team. This experience gave me a lot of practice in <strong>R</strong> and <strong>SAS </strong> to analyze large-scale electronic medical records.
+I’m a fresh graduate from Columbia University, Mailman School of Public Health, with an <strong>M.S. degree in Biostatistics</strong>. I completed my undergraduate study at Fudan University and acquired my <strong>B.S. degree in Pharmaceutical Science</strong>. I have been passionate about data analytics in the healthcare practice, especially for its use in new drug development and clinical trial design to drive innovative solutions.
 </p>
 <p style="text-align:justify;">
-Now, I almost complete the required courses in my program and am looking for a <strong>full-time analyst position</strong> in Healthcare Company, Research Institute or Pharma. I am confident that my combined knowledge of biostatistics and professional experience will enable me to be qualified for this role.
+<p>Hoping to extend my research and analytical skills to the healthcare industry, I really value the work opportunities for biostatistician/data analyst/statistical programmer. I am confident that my knowledge of the <strong>health industry</strong> combined with professional experiences in <strong>data management</strong> and <strong>statistical analysis (R, SQL, SAS - Base &amp; Advanced Programmer Certification)</strong> will enable me to fill your requirements effectively. Working on your team is also of great importance for me to gain more hands-on experience in this field.</p>
 </p>
-<p>More information about me can be reached <a href="about.html">here</a>. Please feel free to contact me at <a href="mailto:cz2493@columbia.edu">cz2493@columbia.edu</a> if my background interests you.</p>
+<p>More information about me can be reached <a href="about.html">here</a>. Please feel free to contact me at <a href="mailto:cz2493@caa.columbia.edu" class="email">cz2493@caa.columbia.edu</a> if my background interests you.</p>
 <p>Warm Regards,</p>
 <p>Chuhan</p>
 </div>

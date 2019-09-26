@@ -11,15 +11,17 @@ title: "Chuhan Zhou"
 Hi,
 
 <p style="text-align:justify;">   
-I am a second-year graduate student in **Biostatistics** at Columbia University, Mailman School of Public Health and will be graduating this summer. I completed my undergraduate study at Fudan University and acquired my B.S. degree in **Pharmaceutical Science**. I have been passionate about data analytics in the healthcare practice, especially for its use in new drug development and clinical trial design to drive innovative solutions. That is why I transferred to Biostatistics for graduate study. I joined Hospital for Special Surgery last summer as a data research intern and was mainly responsible for the **data manipulation** and **statistical analysis** work in our team. This experience gave me a lot of practice in **R** and **SAS ** to analyze large-scale electronic medical records.  
+I'm a fresh graduate from Columbia University, Mailman School of Public Health, with an **M.S. degree in Biostatistics**. I completed my undergraduate study at Fudan University and acquired my **B.S. degree in Pharmaceutical Science**. I have been passionate about data analytics in the healthcare practice, especially for its use in new drug development and clinical trial design to drive innovative solutions.  
 </p>
 
 <p style="text-align:justify;">  
-Now, I almost complete the required courses in my program and am looking for a **full-time analyst position** in Healthcare Company, Research Institute or Pharma. I am confident that my combined knowledge of biostatistics and professional experience will enable me to be qualified for this role. 
+Hoping to extend my research and analytical skills to the healthcare industry, I really value the work opportunities for biostatistician/data analyst/statistical programmer. 
+I am confident that my knowledge of the **health industry** combined with professional experiences in **data management** and **statistical analysis (R, SQL, SAS - Base & Advanced Programmer Certification)** will enable me to fill your requirements effectively.  Working on your team is also of great importance for me to gain more hands-on experience in this field. 
+
 </p>
 
 
-More information about me can be reached [here](about.html). Please feel free to contact me at cz2493@columbia.edu if my background interests you. 
+More information about me can be reached [here](about.html). Please feel free to contact me at cz2493@caa.columbia.edu if my background interests you. 
 
 
 Warm Regards,
