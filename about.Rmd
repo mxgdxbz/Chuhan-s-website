@@ -13,10 +13,18 @@ Focus: Pharmaceutical Sciences
 Core Courses: Pharmaceutical Analysis, Pharmacy Administration, Biotech Drug Delivery System, Pharmaceutical Biotechnology,Pharmacokinetics, Integrated Experiments of Drug Design  
 Awards: Academic Scholarship for continuous three years 
 
-### Professional Experience  
+### Professional Experience 
+**Data preprocessing and visulization using R (team training), Lecturer**   
+ ▪ Self created R learning materials and gave 5 sharing lectures to the team members   
+-  [Quick intro - bar and line plots](intro-to-R.html)  
+-  [Data preprocession](data_preprocessing.html)  
+-  [Heatmap](heatmap.html)   
+-  [Survival Curves](survival.html)   
+-  [Multi-Panel plot](complex.html)   
+
 **Hospital for Special Surgery, Data Research Intern**     
  ▪ Communicated with lead surgeons and cooperatively identified promising variables with impact on hospital-acquired infection (HAI) rate both in operative procedure and post-operative care of spinal surgeries      
- ▪ Quantified [team consistency score](Investigate the role of team consistency score in patients’ surgery outcome.pdf) for each spinal surgery based on survey data collected from surgeons, anesthetists as well as assistants and transferred into a continuous variable in building HAI prediction models   
+ ▪ Quantified team consistency score for each spinal surgery based on survey data collected from surgeons, anesthetists as well as assistants and transferred into a continuous variable in building HAI prediction models   
  ▪ Implemented regression modeling on 20+ variables and performed nested cross-validation in support of model selection   
  ▪ Highly appraised for proposing and successfully performing ROC analysis to further determine the appropriate cut-off values for team consistency score  
  ▪ Generated visualizations including correlograms, tables as well as graphs and reported results to data manager periodically    
@@ -36,25 +44,19 @@ Awards: Academic Scholarship for continuous three years
 
 
 ### Research Experience  
-**Survival Disparities in patients diagnosed with colorectal cancer, [Mediation Analysis Project](mediation.html)**     
-▪ Identify demographic determinants of survival disparities in patients diagnosed with colorectal cancer  
-▪ Investigate the variability in treatment waiting time in patient population and quantify its contribution to the survival disparities while adjusting for other confounders
-▪ Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to quantify the mediation effect of surgery waiting time on survival disparities  
-▪ Developed the framework to conduct mediation analysis for censored data in the clinical practice  
+**Racial Survival Disparities in patients diagnosed with colorectal cancer, [Mediation Analysis Project](project_pre.pdf)**     
+▪ Cooperatively develop a project to investigate determinants of racial survival disparities in patients diagnosed with colorectal cancer      
+▪ Effectively researched on survey data as well as medical records and extracted 1500+ eligible records for further analysis  
+▪	Employed both parametric methods (Accelerated Failure Time) and Semi-parametric methods (Proportional Hazards Model) to separately quantify the mediation effect of diagnosis stage and surgery waiting time on racial survival disparities  
+▪	Professionally developed the framework to conduct mediation analysis for censored data in the clinical practice  
 
 **Smoking in the Framingham Heart Study, [Longitudinal Analysis Project](final_proj.html)**  
-▪ Described the smoking habits(smoking status and number of cigarettes per day) of the participants in the Framingham Heart study as they age   
-▪ Determined the impact of smoking on certain health outcomes,including systolic blood pressure, diastolic blood pressure and serum total cholesterol.  
+▪	Described the smoking habits(smoking status and number of cigarettes per day) of the participants in the Framingham Heart study as they age   
+▪	Determined the impact of smoking on certain health outcomes,including systolic blood pressure, diastolic blood pressure and serum total cholesterol.  
 
 **Machine Learning Techniques in Transaction Data, [Data Mining Project](final_project_cz2493.pdf)**    
-▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure 
+▪ Identified key determinants closely related to consumer purchase capability and predicted their total expenditure   
 ▪ Clustered consumers based on their shopping records so as to estimate their purchase pattern and help providers tailor advertizing in a way attractive to the target groups of consumers.  
-
-
-**Crime Research in New York City, [Data Science Project](https://veronica574.github.io/final_project_crime/)**  
-▪ Focusing on providing information about crimes in NYC. The map helps to visualize where crimes occured in nyc. The trend of crimes shows the change over years and months. 
-▪ Addressed the lead causes to the regional difference in crime rate. We collected the data about income and unemployment rate and analyzed their association with crime rate. 
-▪ Compared dinstinct words in offense type of felony and violation. Overall, our analysis include region, time, criminal types which associated with crimes in NYC.
 
 ### Core Competence  
 ▪ Strong programming and analytical skills  
