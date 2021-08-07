@@ -3,20 +3,18 @@ title: "Chuhan Zhou"
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 ---
 
-### M.S candidate in Biostatistics
+### M.S in Biostatistics, Columbia University
 
 <img src="IMG_2487.JPG" style="width:40%">  
 
 <body style="background-image:url('off-white-bg.jpg');">
-
+  
 
 
 <p style="text-align:justify;">   
-I am a statiscal analyst at Pacira Pharmaceuticals,Inc. I joined Pacira right after I graduated from Columbia University in 2019 with a M.S. degree in  **Biostatistics**. I completed my undergraduate study at Fudan University and acquired my B.S. degree in **Pharmaceutical Science**. I have been passionate about data analytics in the healthcare industry, especially for its use in new drug development and clinical trial design to drive innovative solutions. That is why I made my decision to transfer to Biostatistics for graduate study. I have been growing statistical knowledge through the two-year course training and two-year work practices. Now I am the leading statistician for a phase IV study, mainly responsible for the **data mornitoring** and **statistical analysis** work in our study team. 
-</p>
+Hi,
 
-<p style="text-align:justify;">  
-Now, I have completed the required courses in my program and am looking for a **full-time analyst position** in Healthcare Company, Research Institute or Pharma. I am confident that my combined knowledge of biostatistics and professional experience will enable me to be qualified for this role. 
+I am a statiscal analyst at __Pacira Pharmaceuticals,Inc__. I joined Pacira right after I graduated from Columbia University in 2019 with a M.S. degree in  *_Biostatistics_*. I completed my undergraduate study at Fudan University and acquired my B.S. degree in _Pharmaceutical Science_. I have been passionate about data analytics in the healthcare industry, especially for its use in new drug development and clinical trial design to drive innovative solutions. That is why I made my decision to transfer to Biostatistics for graduate study. I have been growing statistical knowledge through the two-year course training and two-year work practices. Now I am the leading statistician for a phase IV study, mainly responsible for the **Trial Data Mornitoring** and **Statistical Analyses** work in our study team. 
 </p>
 
 
@@ -27,7 +25,7 @@ Warm Regards,
 
 
 
-Chuhan
+_Chuhan_
 
 
 
