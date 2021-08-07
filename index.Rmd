@@ -1,27 +1,26 @@
 ---
 title: "Chuhan Zhou"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
 ---
 
-### M.S graduate in Biostatistics
-#### Columbia University, Mailman School of Public Health
+### M.S candidate in Biostatistics
 
-<img src="IMG_2487.JPG" style="width:35%">  
+<img src="IMG_2487.JPG" style="width:40%">  
 
 <body style="background-image:url('off-white-bg.jpg');">
 
-Hi,
+
 
 <p style="text-align:justify;">   
-I graduated from Columbia University, Mailman School of Public Health, with an **M.S. degree in Biostatistics**. I completed my undergraduate study at Fudan University and acquired my **B.S. degree in Pharmaceutical Science**. I have been passionate about data analytics in the healthcare practice, especially for its use in new drug development and clinical trial design to drive innovative solutions.  
+I am a statiscal analyst at Pacira Pharmaceuticals,Inc. I joined Pacira right after I graduated from Columbia University in 2019 with a M.S. degree in  **Biostatistics**. I completed my undergraduate study at Fudan University and acquired my B.S. degree in **Pharmaceutical Science**. I have been passionate about data analytics in the healthcare industry, especially for its use in new drug development and clinical trial design to drive innovative solutions. That is why I made my decision to transfer to Biostatistics for graduate study. I have been growing statistical knowledge through the two-year course training and two-year work practices. Now I am the leading statistician for a phase IV study, mainly responsible for the **data mornitoring** and **statistical analysis** work in our study team. 
 </p>
 
 <p style="text-align:justify;">  
-Hoping to extend my research and analytical skills to the healthcare industry, I really value the work opportunities for biostatistician/data analyst. I am confident that my knowledge of the **health industry** combined with professional experiences in **data management** and **statistical analysis (R, SAS - Base & Advanced Programmer Certification,SQL,Python)** will enable me to fill your requirements effectively.  Working on your team is also of great importance for me to gain more hands-on experience in this field. 
-
+Now, I have completed the required courses in my program and am looking for a **full-time analyst position** in Healthcare Company, Research Institute or Pharma. I am confident that my combined knowledge of biostatistics and professional experience will enable me to be qualified for this role. 
 </p>
 
 
-More information about me can be reached [here](about.html). Please feel free to contact me at cz2493@caa.columbia.edu if my background interests you. 
+More information about me can be reached [here](about.html). Please feel free to contact me at cz2493@columbia.edu if my background interests you. 
 
 
 Warm Regards,
